@@ -19,7 +19,7 @@
 - [线性代数]()
 - [微积分]()
 - [密码学]()
-- [区块链原理]()
+- [区块链知识](https://github.com/LiuBoyu/blockchain)
 - [云计算原理]()
 - [go基础知识面试知识](https://github.com/ThomasHuke/go_interview_questions)
 - [计算机安全]()
