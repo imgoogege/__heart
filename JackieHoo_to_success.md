@@ -24,3 +24,4 @@
 - [go基础知识面试知识](https://github.com/ThomasHuke/go_interview_questions)
 - [计算机安全]()
 - [阿里分享的后端工程师知识体系](https://github.com/ThomasHuke/jackiehoo_to_success)
+- [books_众多书籍的总汇](https://github.com/EbookFoundation/free-programming-books)
