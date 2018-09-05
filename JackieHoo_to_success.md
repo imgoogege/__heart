@@ -6,7 +6,7 @@
 - [mysql数据库](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 - [redis数据库](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 - [go语言圣经](https://github.com/ThomasHuke/books/blob/master/gopl-zh.pdf)
-- [go语言圣经-在线](- [go语言圣经](https://books.studygolang.com/gopl-zh/)
+- [go语言圣经-在线](https://books.studygolang.com/gopl-zh/)
 - [go教程1-无闻](https://github.com/ThomasHuke/the-way-to-go_ZH_CN)
 - [go教程2-谢大](https://github.com/ThomasHuke/build-web-application-with-golang/blob/master/zh/preface.md)
 - [go examples-tj大神推荐](https://github.com/ThomasHuke/build-web-application-with-golang/blob/master/zh/preface.md)
