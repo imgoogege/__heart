@@ -10,7 +10,7 @@
 - [go语言进阶](https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md)
 - [go教程1-无闻](https://github.com/ThomasHuke/the-way-to-go_ZH_CN)
 - [go教程2-谢大](https://github.com/ThomasHuke/build-web-application-with-golang/blob/master/zh/preface.md)
-- [go examples-tj大神推荐](https://github.com/ThomasHuke/build-web-application-with-golang/blob/master/zh/preface.md)
+- [go examples-tj大神推荐](https://books.studygolang.com/gobyexample/hello-world/)
 - [go实现的十大经典排序算法](https://github.com/ThomasHuke/Sorting-Algorithm)
 - [计算机网络](https://github.com/ThomasHuke/jackiehoo_to_success)
 - [计算机基础知识](https://github.com/ThomasHuke/jackiehoo_to_success)
