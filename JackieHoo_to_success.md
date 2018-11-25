@@ -17,7 +17,7 @@
 - [操作系统](https://github.com/ThomasHuke/jackiehoo_to_success)
 - [计算机组成原理](https://github.com/ThomasHuke/jackiehoo_to_success)
 - [软件测试](https://github.com/ThomasHuke/jackiehoo_to_success)
-- [git](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [git](https://git-scm.com/book/zh/v2)
 - [线性代数]()
 - [微积分]()
 - [密码学]()
